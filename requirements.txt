@@ -1,0 +1,5 @@
+python-binance==1.0.17
+pyTelegramBotAPI==4.15.4
+pandas==2.2.2
+numpy==1.26.4
+ta
