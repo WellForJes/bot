@@ -16,8 +16,8 @@ import telebot
 warnings.filterwarnings("ignore", category=RuntimeWarning)
 
 # КЛЮЧИ (оставлены как есть)
-API_KEY = "RyBmhW46P2FrvDffq9V7xTZudskS3aBfWKU8ZnrtNjwkBA5DSzcpXDB41xITuywM"
-API_SECRET = "J5VezQjvaM0wDYHpvbnesPMi7g6uy9HMlxiMq2DpAXlPkOxPXo8Nlzc8mGLsDODo"
+API_KEY = "5F0MuaY2vxH4zNJnNx9nIHGh7rfP0zIRQGgsb3oArEkn6qQ2148sD0V9ChyBmkqT"
+API_SECRET = "CW810F2zSO40W8PFEKuBpz5TeAEkN0EqOmsIY39iSwOxbjMcxiU6XdHtZyhF49Qr"
 TELEGRAM_TOKEN = "7915214060:AAEOeRNRHpQClOc1_8K3GOHkQVBKv7RgVL0"
 TELEGRAM_CHAT_ID = "349999939"
 
